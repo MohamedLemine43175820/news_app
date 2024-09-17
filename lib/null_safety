@@ -1,0 +1,40 @@
+cas1 : String s = 'A' ;
+
+- initialize :
+ NULL :   can not be   Null
+VALUE  :   required have value
+
+
+- call ( when use) :
+ NULL : can NOT  be null
+ VALUE : required have value
+
+ can not be null in any cas
+
+
+ cas2 : String? s = 'A' ;
+
+ - initialize :
+  NULL :  can  be   Null
+  VALUE:  CAN  have value
+
+
+ - call ( when use) :
+  NULL : can Be  null
+  VALUE : can have  value
+
+
+
+  cas3 : late  String s = 'A' ;
+
+   - initialize :
+    NULL :  can  be   Null
+    VALUE:  CAN  have value
+
+
+   - call ( when use) :
+    NULL : can not  Be  null
+    VALUE : can have  value
+
+
+
